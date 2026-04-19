@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import {NavLink, Routes, Route } from 'react-router-dom';
 import Home from './components/Home';
@@ -6,7 +6,7 @@ import Support from './components/Support';
 import About from './components/About';
 import Labs from './components/Labs';
 import NotFound from './components/NotFound';
-import { Link } from 'react-router-dom';
+
 import React from 'react';
 import MainHeader from './components/MainHeader';
 
